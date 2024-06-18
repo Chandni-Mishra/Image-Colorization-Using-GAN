@@ -1,0 +1,24 @@
+.upload{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+.action{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.options{
+    margin-left: 20px;
+}
+.options button{
+    margin-bottom: 5px;
+}
